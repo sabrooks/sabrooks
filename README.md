@@ -1,1 +1,1 @@
-Lots of private repos that can't be shared.
+Python modules to support electrical enginnering.  Projects focus on data handling and modeling.
